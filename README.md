@@ -4,8 +4,6 @@
 
 ## 教材
 - ゼロから作る Deep Learning（O'REILLY）
-- 松尾研究所 GCI講座
-- 基礎深層学習
 
 ## 環境
 - Python: 3.11.9
